@@ -10,6 +10,7 @@ namespace GitLabWork
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
